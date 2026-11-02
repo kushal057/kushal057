@@ -94,12 +94,6 @@ Then I own the whole product around that — frontend, mobile, deployment — be
 
 <br/>
 
-### `05` &nbsp; Currently exploring
-
-MCP-integrated coding agents — whether they're genuinely useful in review and migration workflows, not just impressive in a demo. The team adopted them, so: partially yes.
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E56CF,100:0d1117&height=2" width="100%" />
 
 <div align="center">
